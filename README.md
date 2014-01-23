@@ -5,4 +5,8 @@ HS maksumuuri
 
 ## install
 
-https://github.com/ile/hesari/raw/master/hesari.crx
+1. download this: https://github.com/ile/hesari/raw/master/hesari.crx
+2. go here: chrome://extensions/
+3. drag and drop the downloaded .crx file into the extension page
+
+
