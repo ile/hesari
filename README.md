@@ -1,7 +1,7 @@
 hesari
 ======
 
-Ohita HS maksumuuri
+Ohita HS maksumuuri - Chrome extension
 
 ## asennus
 
