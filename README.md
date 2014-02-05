@@ -1,7 +1,7 @@
 hesari
 ======
 
-Ohita HS maksumuuri - Chrome lisäosa
+Ohita Helsingin Sanomien maksumuuri - Chromen lisäosa
 
 ## asennus
 
